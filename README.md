@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/285333/screenshots/2602589/shield.jpg" width="350"/>
+  <img src="https://cdn.dribbble.com/users/285333/screenshots/2602589/shield.jpg" width="350" href="https://www.npmjs.com/package/cr.js"/>
 </p>
 
 <h1 align="center">
-cr.js
+<a href="https://www.npmjs.com/package/cr.js">cr.js</a>
 </h1>
 <p align="center">
 Simple clash royale API Wrapper.
@@ -42,6 +42,8 @@ const cr = require('cr.js');
 
 cr.getTopClans(10).then(json => console.log(json))
 ```
+
+------------------------------------------------------
 
 ### cr.getProfile(key) ⇒ <code>Promise\<Object></code>
 **Returns:** <code>Promise\<Object></code>
