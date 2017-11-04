@@ -1,0 +1,29 @@
+{
+  "name": "cr.js",
+  "version": "0.1.0",
+  "description": "An simple clash royale api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebyKAI/cr.js.git"
+  },
+  "keywords": [
+    "clash",
+    "royale",
+    "clashroyale",
+    "api",
+    "wrapper"
+  ],
+  "author": "madebyKAI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebyKAI/cr.js/issues"
+  },
+  "homepage": "https://github.com/madebyKAI/cr.js#readme",
+  "dependencies": {
+    "snekfetch": "^3.5.8"
+  }
+}
