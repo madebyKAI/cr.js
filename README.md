@@ -1,5 +1,3 @@
-[![NPM][large-badge]][stats-link]
-
 <p align="center">
   <img src="https://cdn.dribbble.com/users/285333/screenshots/2602589/shield.jpg" width="350"/>
 </p>
@@ -67,7 +65,3 @@ cr.getTopClans(10).then(json => console.log(json))
 | limit | int  | Optinal. The limit of how many top clans will be pulled |
 
 > The limit value defaults to 100.
-
-[npm]: https://www.npmjs.com/package/cr.js
-[large-badge]: https://nodei.co/npm/cr.js.png?downloads=true&downloadRank=true&stars=true
-[stats-link]: https://nodei.co/npm/cr.js/
