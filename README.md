@@ -40,15 +40,15 @@ cr.getTopClans(10).then(json => console.log(json))
 | ----- | --------- | ------------------------------------------------------------------- |
 | tag   | str / obj | Required. The tag(s) from which the profile(s) will be pulled from. |
 
-### cr.getClan(key) ⇒ <code>Promise\<Object\></code>
+### cr.getClan(key) ⇒ Promise\<Object\>
 **Returns:** Promise\<Object\> : Clan / Clans.
 
 | Param | Type      | Description                                                      |
 | ----- | --------- | ---------------------------------------------------------------- |
 | tag   | str / obj | Required. The tag(s) from which the clan(s) will be pulled from. |
 
-### cr.getTopClans(limit = 100) ⇒ <code>Promise/<Object/></code>
-**Returns:** <code>Promise\<Object\></code> : Clan / Clans.
+### cr.getTopClans(limit = 100) ⇒ Promise\<Object\>
+**Returns:** Promise\<Object\> : Clan / Clans.
 
 | Param | Type | Description                                             |
 | ----- | ---- | ------------------------------------------------------- |
