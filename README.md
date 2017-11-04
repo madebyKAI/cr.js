@@ -1,15 +1,27 @@
 [![NPM][large-badge]][stats-link]
 
-# cr.js
-Simple clash royale API Wrapper.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/285333/screenshots/2602589/shield.jpg" width="350"/>
+</p>
 
-## Installing
+<h1 align="center">
+cr.js
+</h1>
+<p align="center">
+Simple clash royale API Wrapper.
+</p>
+    
+<h2 align="center">
+Installing
+</h2>
 
 ```
 npm i --s cr.js
 ```
 
-## Examples
+<h2 align="center">
+Examples
+</h2>
 
 ```javascript
 const cr = require('cr.js');
