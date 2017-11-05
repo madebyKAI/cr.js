@@ -28,3 +28,9 @@ let client = new cr.Client();
 
 client.getProfile('Y99YRPYG').then(player => console.log(player))
 ```
+
+<h2 align="center">
+Read The Docs.
+</h2>
+
+https://madebykai.github.io/cr.js/
