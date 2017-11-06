@@ -29,8 +29,8 @@
 **Returns:** `str`
 
 > **`clanChest`** - The clan chest of the clan.    
-**Returns:** [`ClanChest`]()
+**Returns:** [`ClanChest`](clanchest.md)
 
 > **`members`** - An array of the members of the clan.    
-**Returns:** [ [`Member`](), [`Member`](), [`Member`](), [`Member`]()... [`Member`]() ]
+**Returns:** [ [`Member`](member.md), [`Member`](member.md), [`Member`](member.md), [`Member`](member.md)... [`Member`](member.md) ]
 

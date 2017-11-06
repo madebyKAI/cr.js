@@ -19,7 +19,7 @@
 **Returns:** `int`
 
 > **`arena`** - The arena the player is currently at.    
-**Returns:** [`Arena`]()
+**Returns:** [`Arena`](arena.md)
 
 > **`legendaryTrophies`** - The amount of legendary trophies the player is currently at.    
 **Returns:** `int`
@@ -79,13 +79,13 @@
 **Returns:** `int`
 
 > **`chestCycle`** - The player's chest cycle.    
-**Returns:** [`Cycle`]()
+**Returns:** [`Cycle`](cycle.md)
 
 > **`chestCyclePosition`** - The position of the chest cycle the player is currently on.    
 **Returns:** `int`
 
 > **`deck`** - An arr containing the player's current, selected deck.    
-**Returns:** [ [`Card`](), [`Card`](), [`Card`](), [`Card`](), [`Card`](), [`Card`](), [`Card`](), [`Card`](), ]
+**Returns:** [ [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), [`Card`](card.md), ]
 
 > **`clanTag`** - The tag of the player's current clan.    
 **Returns:** `str or null`
@@ -100,7 +100,7 @@
 **Returns:** `str or null`
 
 > **`shopOffers`** - The player's upcoming shop offers.    
-**Returns:** [`Shop`]()
+**Returns:** [`Shop`](shop.md)
 
 > **`seasons`** - Array of the player's past seasons.    
-**Returns:** [ [`Season`](), [`Season`](), [`Season`](), [`Season`]()... [`Season`]() ] 
+**Returns:** [ [`Season`](season.md), [`Season`](season.md), [`Season`](season.md), [`Season`](season.md)... [`Season`](season.md) ] 

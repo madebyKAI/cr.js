@@ -1,6 +1,6 @@
 {
   "name": "cr.js",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "An simple clash royale api",
   "main": "index.js",
   "scripts": {

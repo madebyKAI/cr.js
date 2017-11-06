@@ -8,4 +8,4 @@
 - **Returns:** A [Profile](profile.md) object containing information about the player.
 
 ##### getClan(*tag*) ⇒ **`Promise<Clan>`**
-- **Returns:** A clan object containing information about the clan.
+- **Returns:** A [Clan](clan.md) object containing information about the clan.

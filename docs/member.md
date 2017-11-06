@@ -8,7 +8,7 @@
 **Returns:** `str`
 
 > **`arena`** - The member's current arena.    
-**Returns:** [`Arena`]()
+**Returns:** [`Arena`](arena.md)
 
 > **`role`** - The member's current role in the clan.    
 **Returns:** `int`
