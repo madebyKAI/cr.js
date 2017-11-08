@@ -1,6 +1,6 @@
 let { get } = require('snekfetch');
 let Profile = require('./Profile.js');
-let Arena = require('./Arena/js')
+let Arena = require('./Arena.js')
 
 class Member {
     constructor(data) {
